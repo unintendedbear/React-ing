@@ -1,3 +1,7 @@
+# Description
+
+A small repo to start learning React (beware: heavy use of Typescript ahead).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
